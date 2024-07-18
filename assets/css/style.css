@@ -1,0 +1,44 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+p {
+  font-size: 1.7em;
+}
+
+.header {
+  background-color: rgb(248 147 31);
+  padding: 10%;
+
+  color: black;
+  background-image: url(../imgs/casalogo.jpeg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: contain;
+}
+
+.footer {
+  background-color: orange;
+  font-size: 1em;
+  text-align: center;
+  padding: 0.5px;
+}
+b {
+  color: green;
+}
+.titulo {
+  color: black;
+  font-size: 1.5em;
+}
+
+.imagenCasa {
+  width: 60%;
+  text-align: right;
+  padding: 30px;
+}
+img {
+  width: 50%;
+}
+h2 {
+  font-size: 2em;
+}
